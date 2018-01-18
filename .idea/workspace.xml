@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="figureArea.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/figureArea.js">
+      <file leaf-file-name="nextDay.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -55,6 +55,7 @@
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/stringOfNumbers.js" />
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/figureArea.js" />
+        <option value="$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js" />
       </list>
     </option>
   </component>
@@ -140,26 +141,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.figureArea.js">
+  <component name="RunManager" selected="Node.js.nextDay.js">
     <configuration name="figureArea.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="figureArea.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <configuration name="filterByAge.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="filterByAge.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <configuration name="letterOccurrencesInString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="letterOccurrencesInString.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
+    <configuration name="nextDay.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="nextDay.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <configuration name="stringOfNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="stringOfNumbers.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
-    <configuration name="sumAndVat.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sumAndVat.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.sumAndVat.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.letterOccurrencesInString.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.filterByAge.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.stringOfNumbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.letterOccurrencesInString.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.filterByAge.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.stringOfNumbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.nextDay.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.stringOfNumbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.filterByAge.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.letterOccurrencesInString.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.sumAndVat.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.nextDay.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.stringOfNumbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.filterByAge.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.letterOccurrencesInString.js" />
       </list>
     </recent_temporary>
   </component>
@@ -177,12 +178,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516193495881</updated>
       <workItem from="1516193498546" duration="6025000" />
-      <workItem from="1516306131455" duration="900000" />
+      <workItem from="1516306131455" duration="2165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6925000" />
+    <option name="totallyTimeSpent" value="8190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="21" width="1512" height="843" extended-state="0" />
@@ -272,6 +273,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
           <folding />
         </state>
       </provider>
