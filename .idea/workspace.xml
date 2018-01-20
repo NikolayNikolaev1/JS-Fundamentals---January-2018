@@ -13,18 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="circleArea.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ControlFlowLogic/circleArea.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +50,7 @@
         <option value="$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js" />
         <option value="$PROJECT_DIR$/ControlFlowLogic/leapYear.js" />
         <option value="$PROJECT_DIR$/ControlFlowLogic/circleArea.js" />
+        <option value="$PROJECT_DIR$/ControlFlowLogic/triangleArea.js" />
       </list>
     </option>
   </component>
@@ -146,26 +136,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.circleArea.js">
+  <component name="RunManager" selected="Node.js.triangleArea.js">
     <configuration name="boxesAndBottles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="boxesAndBottles.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <configuration name="circleArea.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="circleArea.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
-    <configuration name="distanceBetweenPoints.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="distanceBetweenPoints.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <configuration name="leapYear.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="leapYear.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <configuration name="multiplyNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="multiplyNumbers.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
+    <configuration name="triangleArea.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="triangleArea.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.distanceBetweenPoints.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.boxesAndBottles.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.leapYear.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.circleArea.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.boxesAndBottles.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.leapYear.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.circleArea.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.triangleArea.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.circleArea.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.leapYear.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.boxesAndBottles.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.distanceBetweenPoints.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.triangleArea.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.circleArea.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.leapYear.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.boxesAndBottles.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -184,16 +174,15 @@
       <updated>1516193495881</updated>
       <workItem from="1516193498546" duration="6025000" />
       <workItem from="1516306131455" duration="2487000" />
-      <workItem from="1516479493893" duration="2928000" />
+      <workItem from="1516479493893" duration="3191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11440000" />
+    <option name="totallyTimeSpent" value="11703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="21" width="1512" height="843" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23128343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -325,8 +314,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/circleArea.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/triangleArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
