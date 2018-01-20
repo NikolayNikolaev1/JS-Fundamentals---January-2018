@@ -14,8 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="multiplyNumbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ControlFlowLogic/multiplyNumbers.js">
+      <file leaf-file-name="boxesAndBottles.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
@@ -58,6 +58,7 @@
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js" />
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js" />
         <option value="$PROJECT_DIR$/ControlFlowLogic/multiplyNumbers.js" />
+        <option value="$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js" />
       </list>
     </option>
   </component>
@@ -78,7 +79,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="69" />
     <option name="y" value="21" />
     <option name="width" value="1512" />
@@ -105,6 +106,11 @@
             <path>
               <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="ControlFlowLogic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,26 +144,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.multiplyNumbers.js">
+  <component name="RunManager" selected="Node.js.boxesAndBottles.js">
+    <configuration name="boxesAndBottles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="boxesAndBottles.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <configuration name="distanceBetweenPoints.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="distanceBetweenPoints.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <configuration name="figureArea.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="figureArea.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <configuration name="multiplyNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="multiplyNumbers.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <configuration name="nextDay.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="nextDay.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
-    <configuration name="stringOfNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="stringOfNumbers.js" working-dir="$PROJECT_DIR$/IntroductionToJavaScript" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.stringOfNumbers.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.nextDay.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.distanceBetweenPoints.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.nextDay.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.distanceBetweenPoints.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.boxesAndBottles.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.distanceBetweenPoints.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.nextDay.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.stringOfNumbers.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.boxesAndBottles.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.multiplyNumbers.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.distanceBetweenPoints.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.nextDay.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.figureArea.js" />
       </list>
     </recent_temporary>
   </component>
@@ -176,15 +182,15 @@
       <updated>1516193495881</updated>
       <workItem from="1516193498546" duration="6025000" />
       <workItem from="1516306131455" duration="2487000" />
-      <workItem from="1516479493893" duration="844000" />
+      <workItem from="1516479493893" duration="1433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9356000" />
+    <option name="totallyTimeSpent" value="9945000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="21" width="1512" height="843" extended-state="1" />
+    <frame x="69" y="21" width="1512" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23128343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -292,6 +298,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/multiplyNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
