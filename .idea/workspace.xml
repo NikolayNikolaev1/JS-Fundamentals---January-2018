@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloJavaScript.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js">
+      <file leaf-file-name="areaAndPerimeter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/ControlFlowLogic/binaryLogarithm.js" />
         <option value="$PROJECT_DIR$/ControlFlowLogic/primeNumberChecker.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js" />
+        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js" />
       </list>
     </option>
   </component>
@@ -159,26 +160,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.HelloJavaScript.js">
+  <component name="RunManager" selected="Node.js.areaAndPerimeter.js">
     <configuration name="HelloJavaScript.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="HelloJavaScript.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
+    <configuration name="areaAndPerimeter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="areaAndPerimeter.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="binaryLogarithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="binaryLogarithm.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <configuration name="colorfulNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="colorfulNumbers.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
-    <configuration name="fruitOrVegetable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="fruitOrVegetable.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <configuration name="primeNumberChecker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="primeNumberChecker.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.fruitOrVegetable.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.colorfulNumbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.binaryLogarithm.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.colorfulNumbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.binaryLogarithm.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.areaAndPerimeter.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.binaryLogarithm.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.colorfulNumbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.fruitOrVegetable.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.areaAndPerimeter.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.binaryLogarithm.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.colorfulNumbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -200,12 +201,12 @@
       <workItem from="1516479493893" duration="4934000" />
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
-      <workItem from="1516740123914" duration="406000" />
+      <workItem from="1516740123914" duration="625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21230000" />
+    <option name="totallyTimeSpent" value="21449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="16" width="1512" height="843" extended-state="0" />
@@ -409,6 +410,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
