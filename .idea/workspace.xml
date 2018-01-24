@@ -14,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="distanceIn3D.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js">
+      <file leaf-file-name="gradsToDegrees.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/gradsToDegrees.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="distanceBetweenPoints.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="61" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="61" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -86,6 +76,7 @@
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceOverTime.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js" />
+        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/gradsToDegrees.js" />
       </list>
     </option>
   </component>
@@ -140,11 +131,6 @@
               <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Expressions-ConditionalStatements-Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="IntroductionToJavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,12 +204,12 @@
       <workItem from="1516479493893" duration="4934000" />
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
-      <workItem from="1516740123914" duration="2864000" />
+      <workItem from="1516740123914" duration="3922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23688000" />
+    <option name="totallyTimeSpent" value="24746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="16" width="1512" height="843" extended-state="0" />
@@ -443,6 +429,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -451,10 +445,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js">
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/gradsToDegrees.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
