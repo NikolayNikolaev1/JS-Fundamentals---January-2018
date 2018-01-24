@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="binaryToDecimal.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/binaryToDecimal.js">
+      <file leaf-file-name="assignProperies.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -83,6 +83,7 @@
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/nowPlaying.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/composeTag.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/binaryToDecimal.js" />
+        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js" />
       </list>
     </option>
   </component>
@@ -169,26 +170,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.binaryToDecimal.js">
+  <component name="RunManager" selected="Node.js.assignProperies.js">
+    <configuration name="assignProperies.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="assignProperies.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="binaryToDecimal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="binaryToDecimal.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="composeTag.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="composeTag.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="imperialUnits.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="imperialUnits.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="nowPlaying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="nowPlaying.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
-    <configuration name="rounding.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="rounding.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.rounding.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.assignProperies.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.rounding.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.assignProperies.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
       </list>
     </recent_temporary>
   </component>
@@ -210,12 +211,12 @@
       <workItem from="1516479493893" duration="4934000" />
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
-      <workItem from="1516740123914" duration="7599000" />
+      <workItem from="1516740123914" duration="8188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28423000" />
+    <option name="totallyTimeSpent" value="29012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -513,6 +514,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
