@@ -14,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="imperialUnits.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/imperialUnits.js">
+      <file leaf-file-name="nowPlaying.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/nowPlaying.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="oddOrEven.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="39" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -90,6 +80,7 @@
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/compoundInterest.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/rounding.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/imperialUnits.js" />
+        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/nowPlaying.js" />
       </list>
     </option>
   </component>
@@ -143,11 +134,6 @@
             <path>
               <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="ControlFlowLogic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Expressions-ConditionalStatements-Loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -181,26 +167,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.imperialUnits.js">
+  <component name="RunManager" selected="Node.js.nowPlaying.js">
     <configuration name="compoundInterest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="compoundInterest.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="distanceIn3D.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="distanceIn3D.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
-    <configuration name="distanceOverTime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="distanceOverTime.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="imperialUnits.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="imperialUnits.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
+    <configuration name="nowPlaying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="nowPlaying.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="rounding.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="rounding.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.distanceOverTime.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.distanceIn3D.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.compoundInterest.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.rounding.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.distanceIn3D.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.compoundInterest.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.rounding.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.rounding.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.compoundInterest.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.distanceIn3D.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.distanceOverTime.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.rounding.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.compoundInterest.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.distanceIn3D.js" />
       </list>
     </recent_temporary>
   </component>
@@ -222,12 +208,12 @@
       <workItem from="1516479493893" duration="4934000" />
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
-      <workItem from="1516740123914" duration="6967000" />
+      <workItem from="1516740123914" duration="7203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27791000" />
+    <option name="totallyTimeSpent" value="28027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -489,6 +475,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/imperialUnits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -497,10 +491,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/imperialUnits.js">
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/nowPlaying.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>
