@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="distanceOverTime.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceOverTime.js">
+      <file leaf-file-name="distanceIn3D.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="distanceBetweenPoints.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="61" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceOverTime.js" />
+        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js" />
       </list>
     </option>
   </component>
@@ -130,6 +141,11 @@
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Expressions-ConditionalStatements-Loops" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="IntroductionToJavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,26 +177,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.distanceOverTime.js">
+  <component name="RunManager" selected="Node.js.distanceIn3D.js">
     <configuration name="HelloJavaScript.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="HelloJavaScript.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="areaAndPerimeter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="areaAndPerimeter.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
-    <configuration name="binaryLogarithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="binaryLogarithm.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
+    <configuration name="distanceIn3D.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="distanceIn3D.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="distanceOverTime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="distanceOverTime.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="primeNumberChecker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="primeNumberChecker.js" working-dir="$PROJECT_DIR$/ControlFlowLogic" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.binaryLogarithm.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.areaAndPerimeter.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.distanceOverTime.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.areaAndPerimeter.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.distanceOverTime.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.distanceIn3D.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.distanceOverTime.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.areaAndPerimeter.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.binaryLogarithm.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.distanceIn3D.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.distanceOverTime.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.areaAndPerimeter.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.HelloJavaScript.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.primeNumberChecker.js" />
       </list>
     </recent_temporary>
   </component>
@@ -202,12 +218,12 @@
       <workItem from="1516479493893" duration="4934000" />
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
-      <workItem from="1516740123914" duration="1598000" />
+      <workItem from="1516740123914" duration="2864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22422000" />
+    <option name="totallyTimeSpent" value="23688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="16" width="1512" height="843" extended-state="0" />
@@ -312,13 +328,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
@@ -430,6 +439,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="61" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
