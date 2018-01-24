@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="assignProperies.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js">
+      <file leaf-file-name="lastMonth.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/lastMonth.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nextDay.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -84,6 +94,7 @@
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/composeTag.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/binaryToDecimal.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js" />
+        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/lastMonth.js" />
       </list>
     </option>
   </component>
@@ -139,6 +150,11 @@
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Expressions-ConditionalStatements-Loops" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="IntroductionToJavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -170,26 +186,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.assignProperies.js">
+  <component name="RunManager" selected="Node.js.lastMonth.js">
     <configuration name="assignProperies.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="assignProperies.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="binaryToDecimal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="binaryToDecimal.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="composeTag.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="composeTag.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
-    <configuration name="imperialUnits.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="imperialUnits.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
+    <configuration name="lastMonth.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lastMonth.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="nowPlaying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="nowPlaying.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.assignProperies.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.assignProperies.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.lastMonth.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.assignProperies.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.imperialUnits.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.lastMonth.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.assignProperies.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.binaryToDecimal.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.composeTag.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.nowPlaying.js" />
       </list>
     </recent_temporary>
   </component>
@@ -211,12 +227,12 @@
       <workItem from="1516479493893" duration="4934000" />
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
-      <workItem from="1516740123914" duration="8188000" />
+      <workItem from="1516740123914" duration="8724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29012000" />
+    <option name="totallyTimeSpent" value="29548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -227,7 +243,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -382,14 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/sum3Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -520,8 +528,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/lastMonth.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
