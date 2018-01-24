@@ -13,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="quadraticEquation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="figureOf4Squares.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops/figureOf4Squares.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -91,6 +91,7 @@
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/triangleOfDollars.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/moviePrices.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js" />
+        <option value="$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops/figureOf4Squares.js" />
       </list>
     </option>
   </component>
@@ -111,7 +112,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="73" />
     <option name="y" value="13" />
     <option name="width" value="1512" />
@@ -132,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -144,12 +144,13 @@
             <path>
               <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="Expressions-ConditionalStatements-Loops" type="462c0819:PsiDirectoryNode" />
+              <item name="2.5 Expressions-ConditionalStatements-Loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,26 +178,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.quadraticEquation.js">
+  <component name="RunManager" selected="Node.js.figureOf4Squares.js">
+    <configuration name="figureOf4Squares.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="figureOf4Squares.js" working-dir="$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops" />
     <configuration name="moviePrices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="moviePrices.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="oddNumbers1ToN.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="oddNumbers1ToN.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
-    <configuration name="pointInRectangle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="pointInRectangle.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="quadraticEquation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="quadraticEquation.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="triangleOfDollars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="triangleOfDollars.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.pointInRectangle.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.oddNumbers1ToN.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.triangleOfDollars.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.moviePrices.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.oddNumbers1ToN.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.triangleOfDollars.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.moviePrices.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.moviePrices.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.triangleOfDollars.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.oddNumbers1ToN.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.pointInRectangle.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.moviePrices.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.triangleOfDollars.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.oddNumbers1ToN.js" />
       </list>
     </recent_temporary>
   </component>
@@ -219,21 +220,23 @@
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
       <workItem from="1516740123914" duration="13339000" />
+      <workItem from="1516817716343" duration="1712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34163000" />
+    <option name="totallyTimeSpent" value="35875000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="13" width="1512" height="846" extended-state="0" />
+    <frame x="73" y="13" width="1512" height="846" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23128343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -263,7 +266,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html">
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -271,90 +274,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/stringOfNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/multiplyNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/leapYear.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/triangleArea.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/cone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/fruitOrVegetable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/colorfulNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js" />
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/stringOfNumbers.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/multiplyNumbers.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/leapYear.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/triangleArea.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/cone.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/fruitOrVegetable.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/colorfulNumbers.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessBoard.js" />
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/primeNumberChecker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/primeNumberChecker.js" />
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -362,7 +298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -370,7 +305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -378,7 +312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -386,87 +319,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/sum3Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/figureArea.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/letterOccurrencesInString.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/sumAndVat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/binaryLogarithm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/circleArea.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/sum3Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js" />
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/figureArea.js" />
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/letterOccurrencesInString.js" />
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/sumAndVat.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/binaryLogarithm.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js" />
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/circleArea.js" />
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/compoundInterest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -474,7 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,23 +349,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js" />
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/nowPlaying.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,7 +364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -514,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,7 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,23 +385,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js" />
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/biggestOf3Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,7 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,7 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,12 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="e#186#840#0" expanded="false" />
-            <element signature="e#905#1566#0" expanded="false" />
-            <element signature="e#1624#2270#0" expanded="false" />
-            <element signature="e#2335#2986#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,6 +428,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops/figureOf4Squares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
