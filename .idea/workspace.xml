@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dayOfTheWeek.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/dayOfTheWeek.js">
+      <file leaf-file-name="functionalCalculator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/functionalCalculator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="314">
+              <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -101,6 +101,7 @@
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/squareOfStars.js" />
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/palindrome.js" />
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/dayOfTheWeek.js" />
+        <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/functionalCalculator.js" />
       </list>
     </option>
   </component>
@@ -188,26 +189,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.dayOfTheWeek.js">
+  <component name="RunManager" selected="Node.js.functionalCalculator.js">
     <configuration name="dayOfTheWeek.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="dayOfTheWeek.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
-    <configuration name="figureOf4Squares.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="figureOf4Squares.js" working-dir="$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops" />
+    <configuration name="functionalCalculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="functionalCalculator.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="palindrome.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="squareOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="squareOfStars.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="triangleOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="triangleOfStars.js" working-dir="$PROJECT_DIR$/3. FunctionsAndArrowFunctions" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.functionalCalculator.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.functionalCalculator.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
       </list>
     </recent_temporary>
   </component>
@@ -233,12 +234,12 @@
       <workItem from="1516817716343" duration="2738000" />
       <workItem from="1516909917307" duration="109000" />
       <workItem from="1516994672706" duration="1661000" />
-      <workItem from="1516996407396" duration="1838000" />
+      <workItem from="1516996407396" duration="2770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40509000" />
+    <option name="totallyTimeSpent" value="41441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -249,7 +250,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -279,7 +280,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
@@ -369,8 +369,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/dayOfTheWeek.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/functionalCalculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding />
         </state>
       </provider>
