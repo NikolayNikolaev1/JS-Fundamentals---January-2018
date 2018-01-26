@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functionalCalculator.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/functionalCalculator.js">
+      <file leaf-file-name="aggregateElements.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/aggregateElements.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,6 +102,7 @@
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/palindrome.js" />
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/dayOfTheWeek.js" />
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/functionalCalculator.js" />
+        <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/aggregateElements.js" />
       </list>
     </option>
   </component>
@@ -189,26 +190,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.functionalCalculator.js">
+  <component name="RunManager" selected="Node.js.aggregateElements.js">
+    <configuration name="aggregateElements.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="aggregateElements.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="dayOfTheWeek.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="dayOfTheWeek.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="functionalCalculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="functionalCalculator.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="palindrome.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="squareOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="squareOfStars.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
-    <configuration name="triangleOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="triangleOfStars.js" working-dir="$PROJECT_DIR$/3. FunctionsAndArrowFunctions" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.functionalCalculator.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.functionalCalculator.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.aggregateElements.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.functionalCalculator.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.aggregateElements.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.functionalCalculator.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.dayOfTheWeek.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
       </list>
     </recent_temporary>
   </component>
@@ -234,12 +235,12 @@
       <workItem from="1516817716343" duration="2738000" />
       <workItem from="1516909917307" duration="109000" />
       <workItem from="1516994672706" duration="1661000" />
-      <workItem from="1516996407396" duration="2770000" />
+      <workItem from="1516996407396" duration="4295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41441000" />
+    <option name="totallyTimeSpent" value="42966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -280,7 +281,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/stringOfNumbers.js" />
@@ -379,6 +379,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/aggregateElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
