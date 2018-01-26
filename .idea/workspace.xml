@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/palindrome.js" line="1" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="22553099-3b9b-421b-8572-87dd62539e62" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="squareOfStars.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/squareOfStars.js">
+      <file leaf-file-name="palindrome.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/palindrome.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -96,6 +99,7 @@
         <option value="$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops/MultiplicationTable/index.html" />
         <option value="$PROJECT_DIR$/3. FunctionsAndArrowFunctions/triangleOfStars.js" />
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/squareOfStars.js" />
+        <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/palindrome.js" />
       </list>
     </option>
   </component>
@@ -183,26 +187,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.squareOfStars.js">
+  <component name="RunManager" selected="Node.js.palindrome.js">
     <configuration name="figureOf4Squares.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="figureOf4Squares.js" working-dir="$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops" />
-    <configuration name="moviePrices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="moviePrices.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
+    <configuration name="palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="palindrome.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="quadraticEquation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="quadraticEquation.js" working-dir="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops" />
     <configuration name="squareOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="squareOfStars.js" working-dir="$PROJECT_DIR$/4. FunctionsAndArrowFunctions" />
     <configuration name="triangleOfStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="triangleOfStars.js" working-dir="$PROJECT_DIR$/3. FunctionsAndArrowFunctions" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.moviePrices.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.moviePrices.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.palindrome.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.squareOfStars.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.triangleOfStars.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.figureOf4Squares.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.quadraticEquation.js" />
       </list>
     </recent_temporary>
   </component>
@@ -228,12 +232,12 @@
       <workItem from="1516817716343" duration="2738000" />
       <workItem from="1516909917307" duration="109000" />
       <workItem from="1516994672706" duration="1661000" />
-      <workItem from="1516996407396" duration="122000" />
+      <workItem from="1516996407396" duration="1119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38793000" />
+    <option name="totallyTimeSpent" value="39790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -244,7 +248,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -350,6 +354,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/palindrome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
