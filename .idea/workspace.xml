@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,16 +131,12 @@
               <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="2.5 Expressions-ConditionalStatements-Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,6 +149,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\JS-Fundamentals---January-2018\3. FunctionsAndArrowFunctions" />
       <recent name="C:\Users\user\Desktop\JS-Fundamentals---January-2018\IntroductionToJavaScript" />
     </key>
   </component>
@@ -211,12 +207,14 @@
       <workItem from="1516633828551" duration="6510000" />
       <workItem from="1516733792955" duration="868000" />
       <workItem from="1516740123914" duration="13339000" />
-      <workItem from="1516817716343" duration="2117000" />
+      <workItem from="1516817716343" duration="2738000" />
+      <workItem from="1516909917307" duration="109000" />
+      <workItem from="1516994672706" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36280000" />
+    <option name="totallyTimeSpent" value="37116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -226,7 +224,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -256,14 +254,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
@@ -277,41 +268,11 @@
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessBoard.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/primeNumberChecker.js" />
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceOverTime.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/gradsToDegrees.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceOverTime.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/gradsToDegrees.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/sum3Numbers.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/figureArea.js" />
@@ -321,112 +282,26 @@
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/binaryLogarithm.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/circleArea.js" />
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/compoundInterest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/rounding.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/imperialUnits.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/compoundInterest.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/rounding.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/imperialUnits.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/oddOrEven.js" />
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/nowPlaying.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/composeTag.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/binaryToDecimal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/lastMonth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/nowPlaying.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/composeTag.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/binaryToDecimal.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/assignProperies.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/lastMonth.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js" />
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/biggestOf3Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/pointInRectangle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/oddNumbers1ToN.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/triangleOfDollars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/moviePrices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/biggestOf3Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/pointInRectangle.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/oddNumbers1ToN.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/triangleOfDollars.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/moviePrices.js" />
+    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/quadraticEquation.js" />
     <entry file="file://$PROJECT_DIR$/2.5 Expressions-ConditionalStatements-Loops/figureOf4Squares.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -434,7 +309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -442,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
           <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
