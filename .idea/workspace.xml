@@ -16,7 +16,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="insideVolume.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5. ExercisesFunctionsAndArrowFunctions/insideVolume.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IntroductionToJavaScript/sum3Numbers.js" />
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/sumAndVat.js" />
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/letterOccurrencesInString.js" />
         <option value="$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
@@ -92,6 +102,7 @@
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/functionalCalculator.js" />
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/aggregateElements.js" />
         <option value="$PROJECT_DIR$/4. FunctionsAndArrowFunctions/wordsUppercase.js" />
+        <option value="$PROJECT_DIR$/5. ExercisesFunctionsAndArrowFunctions/insideVolume.js" />
       </list>
     </option>
   </component>
@@ -112,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="73" />
     <option name="y" value="13" />
     <option name="width" value="1512" />
@@ -140,12 +151,17 @@
               <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS-Fundamentals---January-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Fundamentals---January-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="5. ExercisesFunctionsAndArrowFunctions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,17 +237,19 @@
       <workItem from="1516994672706" duration="1661000" />
       <workItem from="1516996407396" duration="4781000" />
       <workItem from="1517239317758" duration="9000" />
-      <workItem from="1517239483030" duration="67000" />
+      <workItem from="1517239483030" duration="167000" />
+      <workItem from="1517239688669" duration="425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43528000" />
+    <option name="totallyTimeSpent" value="44053000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="13" width="1512" height="846" extended-state="1" />
+    <frame x="73" y="13" width="1512" height="846" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23128343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23128343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -266,8 +284,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/filterByAge.js" />
-    <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/stringOfNumbers.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/multiplyNumbers.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/leapYear.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/triangleArea.js" />
@@ -351,6 +367,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Expressions-ConditionalStatements-Loops/distanceIn3D.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. ExercisesFunctionsAndArrowFunctions/insideVolume.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
