@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="firstAndLastKNumbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays/firstAndLastKNumbers.js">
+      <file leaf-file-name="lastKNumbersSequens.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays/lastKNumbersSequens.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IntroductionToJavaScript/distanceBetweenPoints.js" />
         <option value="$PROJECT_DIR$/ControlFlowLogic/multiplyNumbers.js" />
         <option value="$PROJECT_DIR$/ControlFlowLogic/boxesAndBottles.js" />
         <option value="$PROJECT_DIR$/ControlFlowLogic/leapYear.js" />
@@ -103,6 +102,7 @@
         <option value="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays/evenPositionElement.js" />
         <option value="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays/negativePositiveNumbers.js" />
         <option value="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays/firstAndLastKNumbers.js" />
+        <option value="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays/lastKNumbersSequens.js" />
       </list>
     </option>
   </component>
@@ -191,26 +191,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.firstAndLastKNumbers.js">
+  <component name="RunManager" selected="Node.js.lastKNumbersSequens.js">
     <configuration name="SumFirstLast.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="SumFirstLast.js" working-dir="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays" />
     <configuration name="evenPositionElement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="evenPositionElement.js" working-dir="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays" />
     <configuration name="firstAndLastKNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="firstAndLastKNumbers.js" working-dir="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays" />
+    <configuration name="lastKNumbersSequens.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lastKNumbersSequens.js" working-dir="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays" />
     <configuration name="negativePositiveNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="negativePositiveNumbers.js" working-dir="$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays" />
-    <configuration name="roadRadar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="roadRadar.js" working-dir="$PROJECT_DIR$/5. ExercisesFunctionsAndArrowFunctions" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.roadRadar.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.SumFirstLast.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.evenPositionElement.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.negativePositiveNumbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.firstAndLastKNumbers.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.SumFirstLast.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.evenPositionElement.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.negativePositiveNumbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.firstAndLastKNumbers.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.lastKNumbersSequens.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.firstAndLastKNumbers.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.negativePositiveNumbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.evenPositionElement.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.SumFirstLast.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.roadRadar.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.lastKNumbersSequens.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.firstAndLastKNumbers.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.negativePositiveNumbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.evenPositionElement.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.SumFirstLast.js" />
       </list>
     </recent_temporary>
   </component>
@@ -241,12 +241,12 @@
       <workItem from="1517239483030" duration="167000" />
       <workItem from="1517239688669" duration="2398000" />
       <workItem from="1517367122023" duration="2000" />
-      <workItem from="1517398918445" duration="3344000" />
+      <workItem from="1517398918445" duration="4822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49372000" />
+    <option name="totallyTimeSpent" value="50850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -287,7 +287,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessBoard.js" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/chessboard.html" />
     <entry file="file://$PROJECT_DIR$/ControlFlowLogic/primeNumberChecker.js" />
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js" />
@@ -424,6 +423,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. ArraysMatricesMulti-DimensionalArrays/lastKNumbersSequens.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
