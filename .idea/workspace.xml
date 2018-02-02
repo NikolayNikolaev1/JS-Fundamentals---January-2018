@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="concatenateReversed.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8. StringsAndRegex/concatenateReversed.js">
+      <file leaf-file-name="countOccurrences.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8. StringsAndRegex/countOccurrences.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -52,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/HelloJavaScript.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/areaAndPerimeter.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceOverTime.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/distanceIn3D.js" />
@@ -103,6 +102,7 @@
         <option value="$PROJECT_DIR$/7. ExercisesArraysMatricesMulti-DimensionalArrays/magicMatrices.js" />
         <option value="$PROJECT_DIR$/8. StringsAndRegex/printLetters.js" />
         <option value="$PROJECT_DIR$/8. StringsAndRegex/concatenateReversed.js" />
+        <option value="$PROJECT_DIR$/8. StringsAndRegex/countOccurrences.js" />
       </list>
     </option>
   </component>
@@ -193,26 +193,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.concatenateReversed.js">
+  <component name="RunManager" selected="Node.js.countOccurrences.js">
     <configuration name="concatenateReversed.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="concatenateReversed.js" working-dir="$PROJECT_DIR$/8. StringsAndRegex" />
+    <configuration name="countOccurrences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="countOccurrences.js" working-dir="$PROJECT_DIR$/8. StringsAndRegex" />
     <configuration name="extractanNonDecreasingSubsequenceFromArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="extractanNonDecreasingSubsequenceFromArray.js" working-dir="$PROJECT_DIR$/7. ExercisesArraysMatricesMulti-DimensionalArrays" />
     <configuration name="printLetters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="printLetters.js" working-dir="$PROJECT_DIR$/8. StringsAndRegex" />
-    <configuration name="rotateArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="rotateArray.js" working-dir="$PROJECT_DIR$/7. ExercisesArraysMatricesMulti-DimensionalArrays" />
     <configuration name="sortArrayBy2Criteria.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sortArrayBy2Criteria.js" working-dir="$PROJECT_DIR$/7. ExercisesArraysMatricesMulti-DimensionalArrays" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.rotateArray.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.extractanNonDecreasingSubsequenceFromArray.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.sortArrayBy2Criteria.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.printLetters.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.concatenateReversed.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.extractanNonDecreasingSubsequenceFromArray.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.sortArrayBy2Criteria.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.printLetters.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.concatenateReversed.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.countOccurrences.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.concatenateReversed.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.printLetters.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.sortArrayBy2Criteria.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.extractanNonDecreasingSubsequenceFromArray.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.rotateArray.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.countOccurrences.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.concatenateReversed.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.printLetters.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.sortArrayBy2Criteria.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.extractanNonDecreasingSubsequenceFromArray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -245,12 +245,12 @@
       <workItem from="1517367122023" duration="2000" />
       <workItem from="1517398918445" duration="10294000" />
       <workItem from="1517481125874" duration="5502000" />
-      <workItem from="1517587143482" duration="1064000" />
+      <workItem from="1517587143482" duration="2186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62888000" />
+    <option name="totallyTimeSpent" value="64010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -303,7 +303,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/lastMonth.js" />
     <entry file="file://$PROJECT_DIR$/IntroductionToJavaScript/nextDay.js" />
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/biggestOf3Numbers.js" />
     <entry file="file://$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/pointInRectangle.js" />
@@ -600,8 +599,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8. StringsAndRegex/concatenateReversed.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. StringsAndRegex/countOccurrences.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
