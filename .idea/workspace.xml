@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="repeatStringNTimes.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions/repeatStringNTimes.js">
+      <file leaf-file-name="CheckStringStartsWithGivenSubstring.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions/CheckStringStartsWithGivenSubstring.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -52,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/biggestOf3Numbers.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/pointInRectangle.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/oddNumbers1ToN.js" />
         <option value="$PROJECT_DIR$/Expressions-ConditionalStatements-Loops/triangleOfDollars.js" />
@@ -103,6 +102,7 @@
         <option value="$PROJECT_DIR$/8. StringsAndRegex/matchTheDates.js" />
         <option value="$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions/splitAstringWithDelimeter.js" />
         <option value="$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions/repeatStringNTimes.js" />
+        <option value="$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions/CheckStringStartsWithGivenSubstring.js" />
       </list>
     </option>
   </component>
@@ -193,26 +193,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.repeatStringNTimes.js">
-    <configuration name="expressionSplit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="expressionSplit.js" working-dir="$PROJECT_DIR$/8. StringsAndRegex" />
+  <component name="RunManager" selected="Node.js.CheckStringStartsWithGivenSubstring.js">
+    <configuration name="CheckStringStartsWithGivenSubstring.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="CheckStringStartsWithGivenSubstring.js" working-dir="$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions" />
     <configuration name="matchAllWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="matchAllWords.js" working-dir="$PROJECT_DIR$/8. StringsAndRegex" />
     <configuration name="matchTheDates.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="matchTheDates.js" working-dir="$PROJECT_DIR$/8. StringsAndRegex" />
     <configuration name="repeatStringNTimes.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="repeatStringNTimes.js" working-dir="$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions" />
     <configuration name="splitAstringWithDelimeter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="splitAstringWithDelimeter.js" working-dir="$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.expressionSplit.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.matchAllWords.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.matchTheDates.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.splitAstringWithDelimeter.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.repeatStringNTimes.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.matchAllWords.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.matchTheDates.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.splitAstringWithDelimeter.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.repeatStringNTimes.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.CheckStringStartsWithGivenSubstring.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.repeatStringNTimes.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.splitAstringWithDelimeter.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.matchTheDates.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.matchAllWords.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.expressionSplit.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.CheckStringStartsWithGivenSubstring.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.repeatStringNTimes.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.splitAstringWithDelimeter.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.matchTheDates.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.matchAllWords.js" />
       </list>
     </recent_temporary>
   </component>
@@ -247,12 +247,12 @@
       <workItem from="1517481125874" duration="5502000" />
       <workItem from="1517587143482" duration="2818000" />
       <workItem from="1517654761664" duration="10100000" />
-      <workItem from="1517828171070" duration="344000" />
+      <workItem from="1517828171070" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75086000" />
+    <option name="totallyTimeSpent" value="75953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="13" width="1512" height="846" extended-state="0" />
@@ -263,7 +263,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33106267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -305,14 +305,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/palindrome.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4. FunctionsAndArrowFunctions/dayOfTheWeek.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -666,8 +658,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions/repeatStringNTimes.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9. ExercisesStringsAndRegularExpressions/CheckStringStartsWithGivenSubstring.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
